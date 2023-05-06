@@ -1,7 +1,7 @@
 // Exercicio 1 
-let a = 12
-let b = 20
-let c = 11
+// let a = 12
+// let b = 20
+// let c = 11
 
 // console.log("O valor da adicao é", a+b)
 // console.log("O valor da subtracao é", a-b)
