@@ -1,0 +1,56 @@
+ol li {
+    background-color: yellow;
+}
+
+ol li.impar {
+    text-transform: uppercase;
+}
+
+ol li.par {
+    color: green;
+}
+
+h1, h3 {
+   color: red; 
+}
+
+h1.hItalico {
+    height: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li.italico  {
+    font-weight: bold;
+}
+
+ul.linguagens li.TresPrimeiros{
+color: blue;
+}
+
+ul.linguagens li.Java {
+    background-color: pink;
+}
+
+ul.aliados li:hover {
+    font-weight: bold;
+}
+
+ul.aliados li a.Stack:hover{
+    color: orange;
+}
+ul.aliados li a.W3:hover{
+    color: green;
+}
+ul.aliados li a.MDN:hover{
+    color: black;
+}
+ul.aliados li a.DevDocs:hover{
+    color: yellow;
+}
+ul.aliados li a.Trybe:hover{
+    color: green;
+}
